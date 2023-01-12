@@ -1,0 +1,1 @@
+Read this when using automagica please.  Then print it in a terminal.

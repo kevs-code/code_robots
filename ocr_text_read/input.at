@@ -1,0 +1,2 @@
+PATH=/home/kevin/anaconda3/bin:$PATH
+DISPLAY=:0 python /home/kevin/PycharmProjects/robots/run.py --robot ocr_text_read

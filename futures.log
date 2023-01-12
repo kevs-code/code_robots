@@ -1,0 +1,9 @@
+at 06:24 Sep 23 2019 ocr_text_read jobid: 263
+at 07:24 Sep 16 2019 ocr_text_read jobid: 277
+at 06:24 Sep 23 2019 read_docx jobid: 269
+at 06:24 Sep 23 2019 match_a_graphic jobid: 270
+at 06:24 Sep 23 2019 read_xlsx jobid: 268
+1 7 16 9 * read_xlsx jobid: 56cf8cda1c134cbc8b1ebbf67920773d
+5 7 16 9 * match_a_graphic jobid: fbe3e656233b471db111e1f013857851
+6 7 16 9 * read_docx jobid: 927765184fa74997be23f45ba79e49e6
+20 7 16 9 * ocr_text_read jobid: 2490677ee7b04f9ebfeacf670c46c2ed
